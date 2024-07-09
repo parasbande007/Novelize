@@ -15,13 +15,13 @@ MongoDB
 Firebase Authentication
 
 ## Features
-User Authentication: Sign up, log in, and log out with email/password and Google authentication.
-Book Management: Admins can upload, edit, and delete books.
-Book Browsing: Users can view and search books by categories.
-Single Book View: Detailed view of each book with an option to download the PDF.
-Blogs and Reviews: Users can read blogs and reviews about books.
-Admin Dashboard: Manage books and view analytics.
-Private Routes: Ensure only authenticated users can access certain pages.
+- User Authentication: Sign up, log in, and log out with email/password and Google authentication.
+- Book Management: Admins can upload, edit, and delete books.
+- Book Browsing: Users can view and search books by categories.
+- Single Book View: Detailed view of each book with an option to download the PDF.
+- Blogs and Reviews: Users can read blogs and reviews about books.
+- Admin Dashboard: Manage books and view analytics.
+- Private Routes: Ensure only authenticated users can access certain pages.
 
 ## Installation
 1) Clone the repository:
@@ -35,7 +35,7 @@ Private Routes: Ensure only authenticated users can access certain pages.
    npm start
 
 4) Run Application :
-   i) start another powershell window in the terminal
-   ii) cd mern-server
-   iii) cd mern-client
-   iv) npm run dev
+- I) start another powershell window in the terminal
+- II) cd mern-server
+- III) cd mern-client
+- IV) npm run dev
